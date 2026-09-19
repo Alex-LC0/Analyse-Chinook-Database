@@ -150,5 +150,5 @@ La réponse à ces questions va permettre l’orientation de la future phase de 
 
 ## Auteur
 
-- Alexis LE CALVEZ (Data Analyse)
+- Alexis LE CALVEZ (Data Analyst)
 - [lerocha](https://github.com/lerocha/chinook-database?tab=License-1-ov-file) (Base de donnée Chinook)
