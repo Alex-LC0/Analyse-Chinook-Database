@@ -95,7 +95,9 @@ La réponse à ces questions va permettre l’orientation de la future phase de 
 │   └── *.csv
 ├── query_chinook.sql              # Ensemble des requêtes SQL
 ├── analyse_python.ipynb           # Notebook d'analyse des éléments de chiffre d'affaire
-├── dashboard.jpg                  # Dashboard résumant les résultats clés (version statique)
+├── Dashboard_JPG                  # Dashboard résumant les résultats clés (version statique)
+│   └── Dashbord_Pôle_Vente.jpg
+│   └── Dashbord_Pôle_Produit.jpg
 ├── requirements.txt               # Ensemble des packages et librairies utiles pour lire l'analyse
 └── README.md
 ````
