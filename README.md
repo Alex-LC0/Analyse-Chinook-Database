@@ -112,7 +112,7 @@ La réponse à ces questions va permettre l’orientation de la future phase de 
 
 1. **Cloner le repo**
 ```bash
-   git clone https://github.com/Alex-LC0/nom-du-repo.git
+   git clone https://github.com/Alex-LC0/Analyse-Chinook-Database.git
    cd Analyse-Chinook-Database
 ```
 
@@ -131,11 +131,11 @@ La réponse à ces questions va permettre l’orientation de la future phase de 
 ```bash
    jupyter notebook analyse_python.ipynb
 ```
-   Le notebook lit les fichiers `.csv` exportés dans `/Output_Sql` (résultats des requêtes SQL) et génère les visualisations.
+   Le notebook lit les fichiers `.csv` exportés dans `/output_sql` (résultats des requêtes SQL) et génère les visualisations.
 
 6. **Consulter le dashboard interactif**
-   Le dashboard final est disponible ici : [lien vers ton Google Sheet]
-   Une version statique (`dashboard.jpg`) est également incluse dans ce repo pour un aperçu rapide sans avoir à ouvrir Google Sheets.
+   Le dashboard final est disponible ici : [lien vers le Dashboard](https://docs.google.com/spreadsheets/d/1kT_GaW7bJ1dAgemWcfduzlwn4FZbAWzGctIse715TiU/edit?usp=sharing)
+   Une version statique de chaque feuille (`Dashboard_JPG`) est également incluse dans ce repo pour un aperçu rapide sans avoir à ouvrir Google Sheets.
 
 
 ## Limites et pistes futures
