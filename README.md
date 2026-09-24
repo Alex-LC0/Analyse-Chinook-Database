@@ -125,7 +125,7 @@ La réponse à ces questions va permettre l’orientation de la future phase de 
    Le fichier `Chinook_Sqlite.sqlite` est inclus dans ce repo (dossier `/data`), prêt à l'emploi.
 
 4. **Explorer les requêtes SQL**
-   Les requêtes utilisées pour l'analyse sont disponibles dans `query_chinook.sql`. Tu peux les exécuter avec l'extension VS Code [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite), ou via n'importe quel client SQLite de ton choix.
+   Les requêtes utilisées pour l'analyse sont disponibles dans `query_chinook.sql`. Vous pouvez les exécuter avec l'extension VS Code [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite), ou via n'importe quel client SQLite de ton choix.
 
 5. **Lancer l'analyse Python**
 ```bash
