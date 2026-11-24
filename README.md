@@ -12,8 +12,6 @@ Afin de proposer des éléments de développement pour la plateforme.
 
 ![Base donnée LeRocha](data/chinook.png)
 
-[Lien vers le Dashboard Google Sheet](https://docs.google.com/spreadsheets/d/1kT_GaW7bJ1dAgemWcfduzlwn4FZbAWzGctIse715TiU/edit?usp=sharing)
-
 ## Sommaire
 
 - [Résultats clés](#résultats-clés)
@@ -32,7 +30,6 @@ Afin de proposer des éléments de développement pour la plateforme.
 - **Le format audio (MPEG)** surclasse le format vidéo MPEG4 (1956$ vs. 221$).
 - **Le prix unitaire des titres n'influence pas les ventes**
 - **Certains marchés sont sous exploités**, l'Asie et l'Amérique Latine possèdent peu de pays générant des ventes sur la plateforme.
-- [Le Dashboard Complet](https://docs.google.com/spreadsheets/d/1kT_GaW7bJ1dAgemWcfduzlwn4FZbAWzGctIse715TiU/edit?usp=sharing)
 
 ## Contexte
 
@@ -134,8 +131,7 @@ La réponse à ces questions va permettre l’orientation de la future phase de 
    Le notebook lit les fichiers `.csv` exportés dans `/output_sql` (résultats des requêtes SQL) et génère les visualisations.
 
 6. **Consulter le dashboard interactif**
-   Le dashboard final est disponible ici : [lien vers le Dashboard](https://docs.google.com/spreadsheets/d/1kT_GaW7bJ1dAgemWcfduzlwn4FZbAWzGctIse715TiU/edit?usp=sharing)
-   Une version statique de chaque feuille (`Dashboard_JPG`) est également incluse dans ce repo pour un aperçu rapide sans avoir à ouvrir Google Sheets.
+   Le dashboard final est disponible ici dans le fichier `CHINOOK.pbix` ouvrable dans Power BI desktop
 
 
 ## Limites et pistes futures
